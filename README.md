@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yardexx
-- 🎓 I’m studying programming at Masaryk University.
+- 🎓 I’m studying informatics at Brno University of Technology.
 - 📱 I'm interested in mobile development (Android primarily).
 - 💻 I code in Java, Kotlin, C, Python and Dart 🎯.
 
